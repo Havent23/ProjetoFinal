@@ -225,3 +225,11 @@ header {
     color: #fff;
     text-decoration: underline;
 }
+
+.main {
+    padding: 10px;
+}
+
+.body {
+    background-color: #abdae0;
+}
